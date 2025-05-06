@@ -21,7 +21,7 @@
 						"partitionOption": "None"
 					},
 					"dataset": {
-						"referenceName": "AzureSqlTable1",
+						"referenceName": "AzureSqlTable11",
 						"type": "DatasetReference",
 						"parameters": {
 							"Schemaname": "dbo",
@@ -90,7 +90,7 @@
 							},
 							"inputs": [
 								{
-									"referenceName": "AzureSqlTable1",
+									"referenceName": "AzureSqlTable11",
 									"type": "DatasetReference",
 									"parameters": {
 										"Schemaname": {
@@ -106,7 +106,7 @@
 							],
 							"outputs": [
 								{
-									"referenceName": "DelimitedText1",
+									"referenceName": "DelimitedText11",
 									"type": "DatasetReference",
 									"parameters": {
 										"Foldername": {
@@ -122,7 +122,7 @@
 			}
 		],
 		"annotations": [],
-		"lastPublishTime": "2025-05-06T14:06:15Z"
+		"lastPublishTime": "2025-05-06T17:51:50Z"
 	},
-	"type": "Microsoft.DataFactory/factories/pipelines"
+	"type": "Microsoft.Synapse/workspaces/pipelines"
 }
