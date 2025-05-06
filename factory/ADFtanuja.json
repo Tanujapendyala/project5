@@ -1,0 +1,9 @@
+{
+	"name": "ADFtanuja",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d49a0795-31ae-43aa-ac58-f7675a338bd5",
+		"tenantId": "93c178f2-867a-4ec2-8c40-56da4e88d363"
+	}
+}
